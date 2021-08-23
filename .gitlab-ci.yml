@@ -1,0 +1,22 @@
+default:
+    image: node:14
+
+variables:
+  GIT_STRATEGY: fetch
+
+
+stages:
+    - test
+
+test:
+    tags: [general-docker]
+    stage: test
+    script:
+        - npm set progress=false
+        - cd Frontend
+        - npm i jest -g
+        - npm install
+        - npm run test 
+        - cd ../Backend
+        - npm install
+        - npm run test

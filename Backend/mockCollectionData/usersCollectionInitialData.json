@@ -1,0 +1,95 @@
+[
+    {
+        "_id": {
+            "$oid": "6026d7e2e01f86192c9a5789"
+        },
+        "roles": [
+            {
+                "$oid": "6026d7c4e01f86192c9a5785"
+            }
+        ],
+        "firstname": "John",
+        "lastname": "Jonhson",
+        "email": "john@peri.ltd.uk",
+        "password": "$2a$08$nJam1t9TVuLpfhCUeVNFT.qUiPs2GEi09em5NqJnMMM1Rxj7tShma",
+        "__v": 1
+    },
+    {
+        "_id": {
+            "$oid": "6026dec65552793088002180"
+        },
+        "roles": [
+            {
+                "$oid": "6026d7c4e01f86192c9a5786"
+            },
+            {
+                "$oid": "6026d7c4e01f86192c9a5787"
+            }
+        ],
+        "firstname": "Chris",
+        "lastname": "Adtek",
+        "email": "chrisAdtek@peri.ltd.uk",
+        "password": "$2a$08$BYRuT7QqpUD4qFSbsNSfyejI1.Fp9G.zyV0pjS/iIJrdBpyNj/Zbu",
+        "__v": 1
+    },
+    {
+        "_id": {
+            "$oid": "6026df2436b199338c2ec570"
+        },
+        "roles": [
+            {
+                "$oid": "6026d7c4e01f86192c9a5786"
+            }
+        ],
+        "firstname": "David",
+        "lastname": "Tek",
+        "email": "davidtek@peri.ltd.uk",
+        "password": "$2a$08$2S6YX7/.1bmtXNO1e.ZNxuGFQyF.iqhjbrNXyk38.IcU/dHD9aZN.",
+        "__v": 1
+    },
+    {
+        "_id": {
+            "$oid": "6026f9e6ebf5f039749b7a1a"
+        },
+        "roles": [
+            {
+                "$oid": "6026d7c4e01f86192c9a5787"
+            }
+        ],
+        "firstname": "Adrian",
+        "lastname": "Adams",
+        "email": "adrian@peri.ltd.uk",
+        "password": "$2a$08$p82myGYF.doN58TMuJOVse4Od.D56hJWQZe08rEvUvywkzHk8Jkby",
+        "__v": 1
+    },
+    {
+        "_id": {
+            "$oid": "60489bbf224afaa395d073bd"
+        },
+        "roles": [
+            {
+                "$oid": "60489b75224afaa395d073bb"
+            }
+        ],
+        "firstname": "Mark",
+        "lastname": "Adams",
+        "email": "mark@peri.ltd.uk",
+        "password": "$2a$08$p82myGYF.doN58TMuJOVse4Od.D56hJWQZe08rEvUvywkzHk8Jkby",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60489c2c224afaa395d073bf"
+        },
+        "roles": [
+            {
+                "$oid": "60489b75224afaa395d073bb"
+            }
+        ],
+        "firstname": "Rob",
+        "lastname": "Jones",
+        "email": "rob@peri.ltd.uk",
+        "password": "$2a$08$p82myGYF.doN58TMuJOVse4Od.D56hJWQZe08rEvUvywkzHk8Jkby",
+        "__v": 0
+    }
+]
